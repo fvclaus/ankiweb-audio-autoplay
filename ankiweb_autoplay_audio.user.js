@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Autoplay Audio AnkiWeb
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-13
+// @version      2024-07-13-v2
 // @author       Frederik Claus
 // @match        https://ankiuser.net/study
 // @grant        none
